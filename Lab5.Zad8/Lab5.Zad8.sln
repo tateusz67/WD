@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab5.Zad8", "Lab5.Zad8\Lab5.Zad8.pyproj", "{34F514D1-F729-459E-B32F-94AEE260BFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F514D1-F729-459E-B32F-94AEE260BFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F514D1-F729-459E-B32F-94AEE260BFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB9EB15-3396-411D-A489-2AF0871C276C}
+	EndGlobalSection
+EndGlobal
